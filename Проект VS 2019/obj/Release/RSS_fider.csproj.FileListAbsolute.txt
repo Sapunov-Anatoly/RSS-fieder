@@ -1,0 +1,11 @@
+D:\GameDev and Programming\Internship\RSS_fider\bin\Release\RSS_fider.exe.config
+D:\GameDev and Programming\Internship\RSS_fider\bin\Release\RSS_fider.exe
+D:\GameDev and Programming\Internship\RSS_fider\bin\Release\RSS_fider.pdb
+D:\GameDev and Programming\Internship\RSS_fider\obj\Release\RSS_fider.csprojAssemblyReference.cache
+D:\GameDev and Programming\Internship\RSS_fider\obj\Release\RSS_fider.MainMenu.resources
+D:\GameDev and Programming\Internship\RSS_fider\obj\Release\RSS_fider.Properties.Resources.resources
+D:\GameDev and Programming\Internship\RSS_fider\obj\Release\RSS_fider.UpdateSpeedChange.resources
+D:\GameDev and Programming\Internship\RSS_fider\obj\Release\RSS_fider.csproj.GenerateResource.cache
+D:\GameDev and Programming\Internship\RSS_fider\obj\Release\RSS_fider.csproj.CoreCompileInputs.cache
+D:\GameDev and Programming\Internship\RSS_fider\obj\Release\RSS_fider.exe
+D:\GameDev and Programming\Internship\RSS_fider\obj\Release\RSS_fider.pdb

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<habr>
+  <link>
+    <link value="https://habr.com/rss/interesting/" />
+  </link>
+  <speedUpdate>
+    <speedUpdate value="30000" />
+  </speedUpdate>
+  <proxyServerAdress>
+    <proxyServerAdress value="adress" />
+  </proxyServerAdress>
+  <proxyServerLogin>
+    <proxyServerLogin value="login" />
+  </proxyServerLogin>
+  <proxyServerPassword>
+    <proxyServerPassword value="password" />
+  </proxyServerPassword>
+</habr>
